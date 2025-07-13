@@ -41,8 +41,8 @@ CREATE TABLE `tb_admin` (
 --
 
 INSERT INTO `tb_admin` (`id_admin`, `nama`, `user_name`, `password`, `no_telp`, `level`) VALUES
-(13, 'leonita', 'leonita', '827ccb0eea8a706c4c34a16891f84e7b', 89657432221876, 'admin'),
-(14, 'Melia', 'melia', '827ccb0eea8a706c4c34a16891f84e7b', 8888888, 'petugas');
+(1, 'admin', 'Admin', '12345', 0895604882147, 'admin'),
+(2, 'flamboyantds', 'FlamboyantDS', '12345', 0895604882147, 'petugas');
 
 -- --------------------------------------------------------
 
