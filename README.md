@@ -39,7 +39,7 @@ Cara ini cocok jika Anda tidak ingin menggunakan Git.
     * Buka **phpMyAdmin** melalui browser (`http://localhost/phpmyadmin`).
     * Buat database baru dengan nama `db_atk_puskesmas` (atau nama lain sesuai file konfigurasi).
     * Masuk ke database yang baru dibuat, lalu pilih tab **Import**.
-    * Klik `Choose File` dan pilih file `.sql` yang ada di dalam folder proyek (`database/db.sql`).
+    * Klik `Choose File` dan pilih file `.sql` yang ada di dalam folder proyek (`database/atk.sql`).
     * Klik **Go** atau **Import** untuk memulai proses impor.
 
 4.  **Jalankan Aplikasi**
@@ -71,25 +71,16 @@ Cara ini lebih cepat dan profesional jika Anda sudah terbiasa dengan Git.
 
 ---
 
-## 📂 Struktur Database
-Struktur dan relasi tabel dapat dilihat pada file `database/db.sql`. Anda juga bisa melihat visualisasi ERD (Entity Relationship Diagram) di bawah ini.
-
-<p align="center">
-  <img src="URL_SCREENSHOT_ERD_ANDA" alt="ERD Aplikasi ATK" width="70%">
-</p>
-
----
-
 <br>
 
 <div align="center">
   Dibuat dengan ❤️ dan secangkir kopi oleh <br>
-  <strong>M Ilham Brosnansyah</strong>
+  <strong>Flamboyant Dharmawan Saputra</strong>
   <br><br>
   <a href="https://github.com/FlamboyantDS">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/nama-linkedin-anda/">
+  <a href="https://www.linkedin.com/in/flamboyant-dees-38981b212/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
